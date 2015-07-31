@@ -22,6 +22,8 @@ namespace WcfService1
                 ro = new ReturnObject();
             }
 
+            HttpContext.Current.Session["aaa"] = "aa";
+
             HttpContext.Current.Session["name"] += "aaa";
 
             ro.Data += HttpContext.Current.Session["name"];
