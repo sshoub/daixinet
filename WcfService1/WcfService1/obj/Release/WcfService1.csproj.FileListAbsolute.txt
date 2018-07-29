@@ -1,5 +1,0 @@
-E:\vsProj\WcfService1\WcfService1\bin\WcfService1.dll.config
-E:\vsProj\WcfService1\WcfService1\bin\WcfService1.dll
-E:\vsProj\WcfService1\WcfService1\bin\WcfService1.pdb
-E:\vsProj\WcfService1\WcfService1\obj\Release\WcfService1.dll
-E:\vsProj\WcfService1\WcfService1\obj\Release\WcfService1.pdb
